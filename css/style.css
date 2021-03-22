@@ -37,11 +37,26 @@ body {
     text-align: center;
 }
 
+.container {
+    padding: 0px;
+    margin: 0px;
+}
+
+#leagues {
+    margin-top: -65px;
+    margin-left: 10px;
+}
+
 #wnba, #wnbl, #nwsl, #fawsl, #nwhl, #tennis, #mma, #olympics {
     width: 100%;
-    margin-bottom: 20px;
+    padding-bottom: 20px;
 }
 
 .comm-item {
     padding-bottom: 15px;
+}
+
+#wnba-btn, #wnbl-btn {
+    width: 200%;
+    /* padding-right: 50px; */
 }
