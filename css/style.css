@@ -9,14 +9,14 @@ body {
     text-align: center;
 }
 
-.title {
+#title {
     color: #faaf40;
     font-family: 'Teko', 'Verdana', sans-serif;
     font-size: 40px;
     padding-right: 10px;
 }
 
-.header-logo {
+#header-logo {
     width: 10%;
     padding-bottom: 4px;
     opacity: 0.6;
@@ -167,4 +167,8 @@ body {
 
 #videos, #news, #community {
     padding-bottom: 70px;
+}
+
+.hidden {
+    opacity: 0 !important;
 }
