@@ -56,7 +56,23 @@ body {
     padding-bottom: 15px;
 }
 
-#wnba-btn, #wnbl-btn {
-    width: 200%;
-    /* padding-right: 50px; */
+.league-btn {
+    float: left;
+    width: 25%;
+    padding-left: 10px;
+
+}
+
+#wnba-btn, #wnbl-btn, #nwsl-btn, #fawsl-btn, #nwhl-btn, #tennis-btn, #mma-btn, #olympics-btn {
+    width: 100%;
+    padding-bottom: 5px;
+}
+
+#score-filters {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+#scores {
+    
 }
