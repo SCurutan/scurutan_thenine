@@ -74,5 +74,97 @@ body {
 }
 
 #scores {
-    
+        padding-left: 10px;
+}
+
+#wnba-box-1 {
+    position: absolute;
+    width: 27%;
+    top: 170px;
+    left: 306px;
+}
+
+#wnba-box-2 {
+    position: absolute;
+    width: 27%;
+    top: 269px;
+    left: 306px;
+}
+
+#fawsl-box-1 {
+    position: absolute;
+    width: 27%;
+    top: 368px;
+    left: 306px;
+}
+
+#fawsl-box-2 {
+    position: absolute;
+    width: 27%;
+    top: 466px;
+    left: 306px;
+}
+
+#wnbl-box-1 {
+    position: absolute;
+    width: 27%;
+    top: 565px;
+    left: 306px;
+}
+
+#wnbl-box-2 {
+    position: absolute;
+    width: 27%;
+    top: 664px;
+    left: 306px;
+}
+
+#tennis-box-1 {
+    position: absolute;
+    width: 27%;
+    top: 763px;
+    left: 306px;
+}
+
+#tennis-box-2 {
+    position: absolute;
+    width: 27%;
+    top: 861px;
+    left: 306px;
+}
+
+#nwhl-box-1 {
+    position: absolute;
+    width: 27%;
+    top: 960px;
+    left: 306px;
+}
+
+#nwhl-box-2 {
+    position: absolute;
+    width: 27%;
+    top: 1059px;
+    left: 306px;
+}
+
+#olympic-box-1 {
+    position: absolute;
+    width: 27%;
+    top: 1156px;
+    left: 306px;
+}
+
+#olympic-box-2 {
+    position: absolute;
+    width: 27%;
+    top: 1255px;
+    left: 306px;
+}
+
+#scores {
+    padding-bottom: 40px;
+}
+
+#videos, #news, #community {
+    padding-bottom: 70px;
 }
